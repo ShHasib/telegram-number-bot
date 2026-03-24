@@ -28,4 +28,3 @@ app.add_handler(MessageHandler(filters.TEXT, check_number))
 
 print("Bot Running...")
 app.run_polling()
-import
